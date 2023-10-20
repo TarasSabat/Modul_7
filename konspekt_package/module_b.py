@@ -1,4 +1,6 @@
 import module_a
+
+
 def bar():
     print('Function `bar` from module_b')
 

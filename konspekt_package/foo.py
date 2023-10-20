@@ -7,4 +7,4 @@ def get_name_from_ordered_dict():
 
 
 if __name__ == "__main__":
-    print(foo('Volodymyr'))
+    print(foo('Taras'))
